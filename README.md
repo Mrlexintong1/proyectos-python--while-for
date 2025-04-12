@@ -51,11 +51,9 @@ proyectos_python/
 
 ## 📌 Objetivo
 
-Mostrar mi capacidad lógica y orden en el desarrollo de pequeños programas funcionales y bien documentados. Este repositorio es parte de mi portafolio técnico y está orientado a mejorar mi visibilidad ante Recursos Humanos y reclutadores del área de TI y Data Science.
-
+Mostrar mi capacidad lógica y orden en el desarrollo de pequeños programas funcionales y bien documentados. Este repositorio es parte de mi portafolio técnico.
 ---
 
 ## 📫 Conecta conmigo
 
-- GitHub: [Mrlexintong1](https://github.com/Mrlexintong1)
-- LinkedIn: [Carlos Tlali Rosales](https://www.linkedin.com/in/tuusuario/)
+- [LinkedIn](https://www.linkedin.com/in/carlostlali/)
